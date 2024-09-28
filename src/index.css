@@ -233,6 +233,10 @@ a {
     color: #747474;
 }
 
+.arrow {
+    visibility: hidden;
+}
+
 @media (min-width: 745px) and (max-width: 906px) {
     .cards-section {
         position: absolute;
@@ -291,6 +295,7 @@ a {
         top: 14.5rem; 
         transform: translateY(-50%); 
         z-index: 999;
+        visibility: visible;
     }
       
     #left-arrow {

@@ -16,9 +16,9 @@ function Education() {
                 <li>Database Systems</li>
         </ul></p>
         <p className="descriptor">Key projects:</p>
-        <p><ul className="exp-display small-text">
+        <p><ul className="small-text">
                 <li>Tableau-based business intelligence report dealing with large amounts of data</li>
-                <li>Alien Invasion game built with Python</li>
+                <li>Alien Invasion game built in Python alongside a team of students</li>
         </ul></p>
     </div>
     )
